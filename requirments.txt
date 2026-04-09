@@ -1,2 +1,3 @@
-AutoTokenizer, AutoModelForSeq2SeqLM
+transformers 
+torch
 streamlit
