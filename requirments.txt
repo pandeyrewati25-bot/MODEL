@@ -1,2 +1,2 @@
-AutoTokenizer,
+AutoTokenizer, AutoModelForSeq2SeqLM
 streamlit
